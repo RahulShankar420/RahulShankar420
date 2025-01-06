@@ -1,16 +1,20 @@
-## Hi there 👋
+### 🌟 _"Too many of us are not living our dreams because we are living our fears."_ – **Les Brown**
+# 👋 Hi there! I'm Rahul
 
-<!--
-**RahulShankar420/RahulShankar420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 |Developer | Designer | Innovator | Bad Artist|
+🌍 Exploring new ideas and creating So-so projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on:  
+    - A small puzzle based platformer game about squares
+- 🌱 I’m currently pursuing:  
+    -  Computer science and engineering with a specialization in cybersecurity in Amrita Vishwa Vidyapeetham, Coimbatore.
+- 💡 Interests:  
+    - Game development, computer programming, creative works, animals.
+- 🎨 Fun fact:  
+    - My best performance is when things don't go according to plan. I am not of fan of it and I would really like it to stop happening
+## 🌐 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-shankar-v-56575a255/))
