@@ -17,4 +17,4 @@
 - 🎨 Fun fact:  
     - My best performance is when things don't go according to plan. I am not of fan of it and I would really like it to stop happening
 ## 🌐 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rahul-shankar-v-56575a255/))
+- [LinkedIn](https://www.linkedin.com/in/rahul-shankar-v-56575a255/)
